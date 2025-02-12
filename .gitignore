@@ -147,3 +147,4 @@ Program.cs
 *.json
 /.vs/LeetCodeChallenges/copilot-chat/6edc58cd/sessions
 *.v2
+*.bin

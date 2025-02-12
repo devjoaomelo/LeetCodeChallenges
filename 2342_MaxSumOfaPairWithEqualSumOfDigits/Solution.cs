@@ -4,12 +4,6 @@ namespace LeetCodeChallenges._2342_MaxSumOfaPairWithEqualSumOfDigits
 {
     class Solution
     {
-        static void Main(string[] args)
-        {     
-            int ans =  new Solution().maximumSum(new int[] { 18, 43, 36, 13, 7 });
-            Console.WriteLine(ans);
-        }
-
         public int maximumSum(int[] nums)
         {
             int maxSum = -1;
