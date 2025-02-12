@@ -144,3 +144,6 @@ Program.cs
 .vs/LeetCodeChallenges/FileContentIndex/cdb4efd2-85f7-4b92-a0ae-4e89f0a86adb.vsidx
 .vs/LeetCodeChallenges/FileContentIndex/2a08c1a6-1941-4374-84fb-119eeafc555a.vsidx
 *.vsidx
+*.json
+/.vs/LeetCodeChallenges/copilot-chat/6edc58cd/sessions
+*.v2
